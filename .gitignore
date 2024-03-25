@@ -163,4 +163,6 @@ cython_debug/
 # Audio files
 output.wav
 audio.mp3
+
 output.opus
+
